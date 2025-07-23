@@ -37,7 +37,10 @@ Interface
 Manager
 ├── RentalService
 ```
+
 ## 📂 Project Structure
+
+```plaintext
 Vehicle_Rental_System/
 │
 ├── Vehicle.java
@@ -47,6 +50,7 @@ Vehicle_Rental_System/
 ├── Rentable.java
 ├── RentalService.java
 └── Main.java
+```
 
 ## 🚀 How to Run
 1. Clone the repository
